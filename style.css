@@ -103,7 +103,13 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
-    font-size: clamp(2rem,5vw,30.5rem); 
+    font-size: clamp(2rem,5vw,30.5rem);
+    color: rgb(255, 255, 255); 
+}
+
+.titulogaleria{
+    font-size: clamp(2rem,5vw,3.5rem);
+    color: #e38111;
 }
 
 h2{
